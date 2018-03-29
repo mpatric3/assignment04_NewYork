@@ -15,3 +15,4 @@ Information Architect: Amber Williams
 Design Artist: Ana Vaquera
 	
 Coder: Meghan Patrick
+	Created database "NewYork" in bluehost with user "Newyor" with full access.
