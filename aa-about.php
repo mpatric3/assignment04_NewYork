@@ -13,7 +13,7 @@
              <h2>Alejandro Abreu</h2>
 
                 <div class="info">
-                    <!--no bullet points, just a list next to the picture-->
+                    
                     <ul class="basic-info">
                         <li>Major: Computer Science</li>
                         <li>Graduation Year: 2018</li>
@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="pic">
-                    <!--images of place where each person is from, round-->
+                    
                     <figure class="place"> 
                         <img class="scale" src="images/aa.jpg" alt="Alejandro Abreu Picture">
                     </figure>
@@ -30,7 +30,7 @@
             
             <div class="article-info">
 
-            <!--About and their work experience, two seperate headings-->
+            
             <h3>About</h3>
                 <p>My name is Alejandro Abreu, and I was born on September 6th, 1995. I was born in Monte Sinai hospital in Manhattan, and a few months later moved to the Bronx where I currently reside. I am from New York City, more specifically, the Bronx. As a youth, I was very active and in love with sports. I spent most of my time at the park or at the gym either playing baseball or basketball. I attended the P.S 220 for elementary school and later moved on the school for Applied Mathematics and Technology, AAMT, for middle school. At AAMT, I played basketball and ran track for the school team. After completing middle school, I moved on and attended high school at A Philip Randolph High School Campus. In high school, I was rejected from joining the varsity baseball team which led me to pursue other sports. This led me to playing Varsity Lacrosse and Bowling. I graduated from A Philip Randolph in Spring 2013. I was accepted to various university but none call out to me like the one that I currently attend. At the moment, I am a senior at the University of Rochester pursuing a degree in Computer Science. I am anticipated to graduate from the University of Rochester in May 2018. In my lifetime I have worked in about 5 different location varying from a gym to a school.</p>
 

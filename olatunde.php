@@ -1,40 +1,12 @@
 <!doctype html>
 <html lang = "en">
-	<head>
-
-
-			<meta charset= "utf-8">
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<title>Assignment 3- Phoenix by Fiyinfoluwa Oluyinka, Olatunde Oshunlaja, Prosper Feya </title>
-			 <link rel="stylesheet" type="text/css" href="css/hero.css">
-			 <link rel="stylesheet" type="text/css" href="css/style.css"> 
-			 <link rel="stylesheet" type="text/css" href="css/navigation.css">
-			 <link rel="stylesheet" href="sss/sss.css">
-			 <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-
-
-</head>
+<?php include "inc/html-top.inc";?>
 
 <body>
-	<section class ="banner">
-	<header>
-		<a href = "index.html">
-		<h1> Representatives of the African Continent </h1>
-		<img src="images/africa.jpeg" alt=" An African sunset">
-  	    </a>
-    	<p> Africans in Diaspora </p>	
-
-    	<nav class="itemnav menu">
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="fiyin.html">Fiyinfoluwa Oluyinka</a></li>
-				<li><a href="olatunde.html"> Olatunde Oshunlaja </a></li>
-				<li><a href="prosper.html">Prosper Feya</a></li>
-			</ul>
-		</nav>
-
-  	</header>
-  	</section>
+	<section class = "banner">
+        <?php include "inc/header.inc"; ?>
+        <?php include "inc/nav.inc"; ?>
+	</section> <!--.banner-->
 
     <div class = "container">
 
@@ -44,11 +16,11 @@
 			<h2> About Me </h2></section>
 
 			<figure>
-				<img src= "images/olatunde_trad.jpg" alt = "Olatunde Oshunlaja">
-				<figcaption> Olatunde in Traditional Nigerian Attire </figcaption>
+				<img src="images/oo.jpg" alt="Olatunde Oshunlaja">
+				<figcaption> London Skyline </figcaption>
 			</figure>
 
-			<p>My name is <strong>Olatunde Oshunlaja</strong>. I know right pretty complex to pronounce so you can just call me "Ola". I am Junior who is majoring in Business and minoring in Computer Science.I Love traveling the world and experiencing new cultures. An interesting tidbit about me is that I have been to school in three different countries Nigeria, England and now the US. I speak two languages English and Yoruba.</p>
+			<p>My name is Olatunde Oshunlaja. I know right pretty complex to pronounce so you can just call me "Ola". I am Junior who is majoring in Business and minoring in Computer Science.I Love traveling the world and experiencing new cultures. An interesting tidbit about me is that I have been to school in three different countries Nigeria, England and now the US. I speak two languages English and Yoruba.</p>
 
 			<p> Some of my favorite books include” Extreme ownership” by Jocko Willink, “Tribe” by Sebastian Junger and “The Prince” by Niccolo Machiavelli and the play “Titus Andronicus” by William Shakespeare. My Favorite quote is by the baseball player Mickey Rivers which goes “ain’t no sense worryin’ about things you got control over, ‘cause if you got control over ‘em, aint no sense worryin’. And ain’t no sense worryin’ about the things you don’t got control over, ‘cause if you don’t got control over ‘em, ain’t no sense worryin’. My Philosophy on life is based on Guy Ritchie’s idea of owning the suit. It is an idea that you can construct your own narrative. What kind of messages with your suit do you want to convey to others. My Long term academic goals get my MBA in business administration, get a certification as a CPA or CFA and hopefully work in some capacity as an analyst for the International Monetary Fund. In another life, surely, I would have been a soccer star or Elon Musk.</p>
                 
@@ -83,20 +55,6 @@
 
 			
 		</aside>
-
-	<footer class = "item4">
-			<section class = "hero">
-			<h2>Citations</h2></section>
-			<ul class = "circle">
-
-				<li>Information Architect - Fiyinfoluwa Oluyinka</li>
-				<li>Coder - Olatunde Oshunlaja</li>
-				<li>Desing Artist- Prosper Feya</li>
-
-			</ul>
-
-				<p>  CSC 174 Assignment 3 </p>
-		</footer>
 
 	</div>
 

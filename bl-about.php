@@ -12,7 +12,7 @@
             <h2>Bei Lu</h2>
 
             <div class="info">
-                <!--no bullet points, just a list next to the picture-->
+                
                 <ul>
                     <li>Major: Computer Science and Psychology</li>
                     <li>Graduation Year: 2019</li>
@@ -21,7 +21,7 @@
             </div>
 
             <div class="pic">
-                        <!--images of place where each person is from, round-->
+                        
                 <figure class="place"> 
                     <img class="scale" src="images/bl.jpg" alt="Bei Lu Picture">
                 </figure>
@@ -29,7 +29,6 @@
 
             <div class="article-info">
 
-            <!--About and their work experience, two seperate headings-->
             <h3>About</h3>
                 <p>Charlie studies in University of Rochester, double majoring in psychology and computer science. During her time in Rochester, she passionately devotes to social and developmental psychology and human computer interaction. Her interest in developmental psychology led her to contribute in the university kid's lab, while her knowledge in computer science helps her come up with solutions to meliorate the behavior coding system in psychology researches. She also has research experience in Zhejiang University , where she assisted similar developmental psychology researches on children's temperament. Charlie is enthusiastic about child development and hopes to turn this passion into a career.</p>
 
