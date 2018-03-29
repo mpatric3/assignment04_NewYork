@@ -46,6 +46,27 @@
 			<p>Charlie studies in University of Rochester, double majoring in psychology and computer science. During her time in Rochester, she passionately devotes to social and developmental psychology and human computer interaction. Her interest in developmental psychology led her to contribute in the university kid's lab, while her knowledge in computer science helps her come up with solutions to meliorate the behavior coding system in psychology researches. She also has research experience in Zhejiang University , where she assisted similar developmental psychology researches on children's temperament. <a class="readmore" href = "bl-about.php"> Read More</a></p><!---insert small about me-->
 		</article>
 
+
+		<body>
+			<h1>Leave Us Your Feedback</h1>
+		        <form method = "post" action = "form.php">
+		            <div>
+		                <label for="">Name: </label>
+		                <input type="text" name="name" id="name">
+		            </div>
+		            <div>
+		                <label for="">Email: </label>
+		                <input type="text" name="email" id="email">
+		            </div>
+		            <div>
+		                <label for="">Tell us how computer science and business interconnect in careers: </label>
+		                <input type="text" name="careers" id="careers">
+		            </div>
+		            <input type="submit">
+		        </form>
+		</body>
+
+
 		<?php include "inc/footer.inc"; ?>
 		</div> <!--.container -->
 		<?php include "inc/scripts.inc"; ?>
