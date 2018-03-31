@@ -55,7 +55,7 @@
 
 
 		<body>
-			<h1>Leave Us Your Feedback</h1>
+			<h1>Leave Us Your Feedback:</h1>
 		        <form method = "post" action = "form.php">
 		            <div>
 		                <label for="">Name: </label>
@@ -69,7 +69,7 @@
 		                <label for="">Tell us how computer science and business interconnect in careers: </label>
 		                <input type="text" name="careers" id="careers">
 		            </div>
-		            <input type="submit">
+		            <input type="submit" value="Submit Feedback">
 		        </form>
 		</body>
 
