@@ -7,8 +7,6 @@
         </section>
 
         <div class = "container">
-        
-        <article>
             
 		<div class= "container" style="z-index: 1;">
 
@@ -21,8 +19,6 @@
 		</div>
 
 		<article>
-
-
 		<h2>Alejandro Abreu</h2>
 			<figure> 
 				<img src="images/aa.jpg" alt="New York City Skyline">
@@ -55,7 +51,7 @@
 		</article>
 
 
-		<body>
+		<aside>
 			<h1>Leave Us Your Feedback:</h1>
 		        <form method = "post" action = "form.php">
 		            <div>
@@ -72,7 +68,7 @@
 		            </div>
 		            <input type="submit" value="Submit Feedback">
 		        </form>
-		</body>
+		</aside>
 
 
 		<?php include "inc/footer.inc"; ?>
