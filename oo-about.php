@@ -9,7 +9,7 @@
     <div class = "container">
 
 
-		<article>
+		<article class="aaarticle">
 			<h2> Olatunde Oshunlaja </h2>
 
                 <div class="info">
@@ -23,7 +23,7 @@
 
 		<div class="pic">
 			<figure class="place">
-				<img src="images/oo.jpg" alt="Olatunde Oshunlaja">
+				<img class="scale" src="images/oo.jpg" alt="Olatunde Oshunlaja">
 			</figure>
 		</div>
 
@@ -36,7 +36,7 @@
 	</article>
                 
 
-    <aside>
+    <aside class = "aaaside">
     	<div class="aside-info">
 			<h3> Work Experience </h3>
 
