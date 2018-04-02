@@ -14,11 +14,13 @@
 }
 
 .nav li {
+    
 	display: table-cell;
 }
 
 .nav{
-	float: right;
+    float: right;
+    padding-top:10px;
 }
 
 /* Indicate when navigation is clickable */

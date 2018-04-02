@@ -49,7 +49,7 @@
 				<img src="images/oo.jpg" alt="Olatunde Oshunlaja">
 				<figcaption> London Skyline </figcaption>
 			</figure>
-			<p>My name is Olatunde Oshunlaja. I know right pretty complex to pronounce so you can just call me "Ola". I am Junior who is majoring in Business and minoring in Computer Science.I Love traveling the world and experiencing new cultures. An interesting tidbit about me is that I have been to school in three different countries Nigeria, England and now the US. I speak two languages English and Yoruba. <a class="readmore" href = "olatunde.php"> Read More</a></p>
+			<p>My name is Olatunde Oshunlaja. I know right pretty complex to pronounce so you can just call me "Ola". I am Junior who is majoring in Business and minoring in Computer Science.I Love traveling the world and experiencing new cultures. An interesting tidbit about me is that I have been to school in three different countries Nigeria, England and now the US. I speak two languages English and Yoruba. <a class="readmorediff" href = "oo-about.php"> Read More</a></p>
 		</article>
 
 
@@ -77,5 +77,4 @@
 		</div> <!--.container -->
 		<?php include "inc/scripts.inc"; ?>
 	</body>
-	<!---1d6627fd0cdc7ce7db5827026208a8eb28efe067-->
 </html>

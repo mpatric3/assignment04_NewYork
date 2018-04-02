@@ -51,21 +51,20 @@ figcaption{
 
 .readmore{
     background-color:rgb(253, 202, 64);
-	color: #457B9D;
+	color: rgb(50, 48, 49);;
 	font-size: 20px;
 	/*CRAP princple: Proximity of link to about block makes it obvious that the read more tag will lead to page about student */;
 }
 
-
-a:hover{
-	color: #B3CCCE; /*indicate when links are clickable */
+.readmorediff{
+    color:rgb(253, 202, 64);
+	background-color: rgb(50, 48, 49);;
+	font-size: 20px;
+	/*CRAP princple: Proximity of link to about block makes it obvious that the read more tag will lead to page about student */;
 }
 
-
-
-
-img {
-    border-radius: 50%; /* round pics to follow directions set by IA */
+a:hover{
+    color:red;
 }
 
 ul{
@@ -106,7 +105,7 @@ img.scale {
 }
 
 .slider{
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
     max-width: 300px;
 
