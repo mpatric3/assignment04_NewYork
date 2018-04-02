@@ -72,14 +72,10 @@ figcaption{
 }
 
 .readmorediff{
-    color:white;
+    color:rgb(253, 202, 64);
 	background-color: rgb(50, 48, 49);;
     font-size: 20px;
     text-align:center;
-}
-
-.readmore a:hover{
-	color:rgb(253, 202, 64);
 }
 
 a:hover{
