@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Comments included on this page are by the Design Artist, Meghan Patrick.
 	I created a F-layout for the content, so the reader sees the logo, navigation, then once on a page views the title of the person, then the photo of where they're from, and then they're "quick facts" before moving on to the dense content */
 
@@ -63,11 +64,14 @@ a:hover{
 
 
 
+=======
+>>>>>>> 28b42976be067d05491e980f5bd6ec41b78ad29c
 
 img {
     border-radius: 50%; /* round pics to follow directions set by IA */
 }
 
+<<<<<<< HEAD
 ul{
 	list-style-type: none;
 }
@@ -85,11 +89,14 @@ article h2{
 
 /* Pic and accompanying info set to half of the area each, helps communicate F-layout */
 
+=======
+>>>>>>> 28b42976be067d05491e980f5bd6ec41b78ad29c
 .pic{
 	grid-column: 1/2;
 	grid-row:2;
 }
 
+<<<<<<< HEAD
 .info{
 	grid-column: 2/ 3;
 	align-self: center;
@@ -101,6 +108,8 @@ article h2{
 
 }
 
+=======
+>>>>>>> 28b42976be067d05491e980f5bd6ec41b78ad29c
 img.scale {
   width: 100%;
 }
