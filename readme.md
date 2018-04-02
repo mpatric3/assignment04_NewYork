@@ -15,4 +15,8 @@ Information Architect: Amber Williams
 Design Artist: Ana Vaquera
 	
 Coder: Meghan Patrick
-	Created database "NewYork" in bluehost with user "Newyor" with full access.
+	Created MySQL database "NewYork" in bluehost with user "Newyor" with full access. Created HTML form using PHP to write POST data to the database.
+
+	Installed jquery slider and ensured functionality by reformatting images.
+
+	Ensured website meets web standards with validation.

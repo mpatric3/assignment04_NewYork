@@ -65,7 +65,7 @@
 		                <input type="text" name="email" id="email">
 		            </div>
 		            <div>
-		                <label for="">Tell us how computer science and business interconnect in careers: </label>
+		                <label for="">Tell us how you feel computer science and business intersect in careers: </label>
 		                <input type="text" name="careers" id="careers">
 		            </div>
 		            <input type="submit" value="Submit Feedback">
