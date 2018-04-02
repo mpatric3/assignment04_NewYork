@@ -1,25 +1,17 @@
-/* Comments included on this page are by the Design Artist, Meghan Patrick.
-	I created a F-layout for the content, so the reader sees the logo, navigation, then once on a page views the title of the person, then the photo of where they're from, and then they're "quick facts" before moving on to the dense content */
-
-
 .container{
 	padding-top: 150px;
 	margin:auto;
 	max-width: 960px;
-	display: grid; /* container for content set to grid to allow easier positioning of elements*/
-
+	display: grid;
 }
 
 body{
 	background: rgb(50, 48, 49);
-	/* Transition of color to communicate scroll length on page */
-	/* CRAP principle: contrast between border and page */
 }
 
 h1{
 	font-size: 2pt;
 	padding: 0px 0px 0px 15px;
-	/* CRAP princple: alignment of headings */
 }
 
 h2{
@@ -28,18 +20,16 @@ h2{
 
 
 article, aside{
-	font-family: 'Raleway', sans-serif; /* Custom font chosen from google fonts to pair well with banner font. Simple, modern typeface communicates the technical and modern "computer science" tone of the site */
+	font-family: 'Raleway', sans-serif;
 	padding: 5px 15px 5px 15px;
 	margin: 40px;
-	background-color: white;	/* creating clear box around the different blocks on information help differntiate content types*/ 
-	/* CRAP principle: repetition of background and layout */;
+	background-color: white;
 }
 .aaarticle, .aaaside{
-	font-family: 'Raleway', sans-serif; /* Custom font chosen from google fonts to pair well with banner font. Simple, modern typeface communicates the technical and modern "computer science" tone of the site */
+	font-family: 'Raleway', sans-serif;
 	padding: 5px 15px 5px 15px;
 	margin: 40px;
-	background-color: rgb(253, 202, 64);	/* creating clear box around the different blocks on information help differntiate content types*/ 
-	/* CRAP principle: repetition of background and layout */;
+	background-color: rgb(253, 202, 64);
 }
 
 .bus{
@@ -59,16 +49,14 @@ article, aside{
 }
 
 figcaption{
-	text-align: center; /*centered caption for aethetic appeal */
+	text-align: center;
 }
-
 
 .readmore{
     background-color:rgb(253, 202, 64);
 	color: rgb(50, 48, 49);
     font-size: 20px;
     text-align:center;
-	/*CRAP princple: Proximity of link to about block makes it obvious that the read more tag will lead to page about student */;
 }
 
 .readmorediff{
@@ -124,8 +112,8 @@ img.scale {
 
 @media (max-width: 700px){
     .container {
-        display: block; /* Block positioning when screen is minimized */
-    }
+		display: block;
+	}
 
     .nav{
         display:block;
