@@ -9,14 +9,12 @@
     <div class = "container">
 
 
-		<article class = item2>
-		<section class = "hero">
-			<h2> Olatunde Oshunlaja </h2></section>
+		<article>
+			<h2> Olatunde Oshunlaja </h2>
 
                 <div class="info">
                     <ul class="basic-info">
                     <!--no bullet points, just a list next to the picture-->
-                    <ul>
                         <li> Major: Business </li>
                         <li> Graduation Year: Unknown </li>
                         <li> Hometown: Unkown </li>
@@ -29,6 +27,7 @@
 			</figure>
 		</div>
 
+<div class = "article-info">
 		<h3> About </h3>
 			<p>My name is Olatunde Oshunlaja. I know right pretty complex to pronounce so you can just call me "Ola". I am Junior who is majoring in Business and minoring in Computer Science.I Love traveling the world and experiencing new cultures. An interesting tidbit about me is that I have been to school in three different countries Nigeria, England and now the US. I speak two languages English and Yoruba.</p>
 
@@ -39,27 +38,21 @@
 
     <aside>
     	<div class="aside-info">
-			<section class = "hero">
 			<h3> Work Experience </h3>
-			</section>
 
             <p>Some of my notable work experience includes working for Skye Bank in three 
              departments. The Banking Operations Division Assisted with the development of Marketing Strategies and the Management of Small and Medium Business (SMB)Accounts. Assisted with the Assessment and Collation of Loan Documentation for small businesses. The Customer service division where I was Involved in Client Management which involved activities such as Account Opening, Updated Client Records, Issuance of new Cheque Books, Debit and Credit Cards.</p>
 			
-             <section class = "hero">
+            
 
 			<p>Another interesting work experience was working with Quasar Limited a Ready-Mix Concrete supplier and I Participated in all aspects of the Plant’s Operations. Assisted with the Collection and Recording of Laboratory Samples, Coordination of Onsite deliveries, Materials Pre-Orders and Creation of a Client Database. Created flow charts for Senior Management’s understanding of the operational bottlenecks of the business.</p>
 			
-			<section class = "hero">
+			
 			
 			<p>Furthermore, I Recently participated in a project in collaboration with the Regional Transit Service who   were redesigning the public transit system in the Monroe County region for the first time in 40 years. I was involved in primary and secondary market research which involved in handing out surveys and organizing focus groups to gather information from the residents of the Monroe county residents to figure out the trends that will encourage increased patronage of the RTS services and also identify the existing problems with RTS services.</p>
 
 		</div>
 	</aside>
-
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-	<script src="js/menu-highlighter.js"></script>
-</body>
 
 
 <?php include "inc/footer.inc";?>
