@@ -59,15 +59,15 @@
 			<h1>Leave Us Your Feedback:</h1>
 		        <form method = "post" action = "form.php">
 		            <div>
-		                <label for="">Name: </label>
+		                <label for="name">Name: </label>
 		                <input type="text" name="name" id="name">
 		            </div>
 		            <div>
-		                <label for="">Email: </label>
+		                <label for="email">Email: </label>
 		                <input type="text" name="email" id="email">
 		            </div>
 		            <div>
-		                <label for="">Tell us how you feel computer science and business intersect in careers: </label>
+		                <label for="careers">Tell us how you feel computer science and business intersect in careers: </label>
 		                <input type="text" name="careers" id="careers">
 		            </div>
 		            <input type="submit" value="Submit Feedback">
