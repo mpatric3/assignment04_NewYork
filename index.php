@@ -44,12 +44,14 @@
 
 
 		<!--Different Profile--> 
+		<div class = "bus">
 		<h2> Olatunde Oshulaja </h2>
 			<figure>
 				<img src="images/oo.jpg" alt="Olatunde Oshunlaja">
 				<figcaption> London Skyline </figcaption>
 			</figure>
 			<p>My name is Olatunde Oshunlaja. I know right pretty complex to pronounce so you can just call me "Ola". I am Junior who is majoring in Business and minoring in Computer Science.I Love traveling the world and experiencing new cultures. An interesting tidbit about me is that I have been to school in three different countries Nigeria, England and now the US. I speak two languages English and Yoruba. <a class="readmorediff" href = "oo-about.php"> Read More</a></p>
+</div>
 		</article>
 
 

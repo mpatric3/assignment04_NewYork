@@ -13,6 +13,7 @@ Information Architect: Amber Williams
 		The web form should inculde a space for "name", "email", and a comment section for users to write a simple sentence regarding how computer science and business interconnect in careers. This form should be listed on the home page.
 		The profile page for the business student should differ from the other three pages. Layout should be the same in order to expect similiar flow, but the page should look different (i.e. different color scheme and slightly different font). The headings should also be different. There should be an h1 stating computer science major for the three computer science majors and an h1 stating Business Major for the business major page. These should be centered on the page.
 Design Artist: Ana Vaquera
+	Designed webpage. The home page s designed in an F layout for easily readability. To indicate that everything that is being seen belongs to the same webpage, everything follows the same color scheme of shade of white, grey, black, and yellow.
 	
 Coder: Meghan Patrick
 	Created MySQL database "NewYork" in bluehost with user "Newyor" with full access. Created HTML form using PHP to write POST data to the database.
