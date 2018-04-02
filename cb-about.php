@@ -14,7 +14,6 @@
                 <div class="info">
                     <ul class="basic-info">
                     <!--no bullet points, just a list next to the picture-->
-                    <ul>
                         <li>Major: Computer Science</li>
                         <li>Graduation Year: 2020</li>
                         <li>Hometown: Rochester, NY</li>

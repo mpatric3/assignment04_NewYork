@@ -5,8 +5,6 @@
             <?php include "inc/header.inc"; ?>
             <?php include "inc/nav.inc"; ?>
         </section>
-
-        <div class = "container">
             
 		<div class= "container" style="z-index: 1;">
 
@@ -16,11 +14,10 @@
 			<img src="images/cbslider.jpg" alt="Casey Brentnall Picture">
 			<img src="images/blslider.jpg" alt="Bei Lu Picture">
 			<img src="images/ooslider.jpg" alt="Olatunde Oshunlaja Picture">
-        	
-
 		</div>
 
 		<article>
+			
 		<h2>Alejandro Abreu</h2>
 			<figure> 
 				<img src="images/aa.jpg" alt="New York City Skyline">
@@ -73,6 +70,8 @@
 		            <input type="submit" value="Submit Feedback">
 		        </form>
 		</aside>
+
+
 
 
 		<?php include "inc/footer.inc"; ?>

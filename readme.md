@@ -27,3 +27,5 @@ Coder: Meghan Patrick
 	Installed jquery slider and ensured functionality by reformatting images.
 
 	Ensured website meets web standards with validation.
+	Known error during HTML validation is with the font declaration. This code was taken directly from google fonts, and is still functional. This validation error occurs on every page.
+		"Error: Bad value https://fonts.googleapis.com/css?family=Montserrat|Raleway for attribute href on element link: Illegal character in query: | is not allowed.le.css">↩	<link href="https://fonts.googleapis.com/css?family=Montserrat|Raleway" rel="stylesheet">↩	<met"
