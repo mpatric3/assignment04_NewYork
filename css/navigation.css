@@ -1,12 +1,15 @@
 /* Navigation styling */
 
 .nav ul {
+	border-collapse: collapse;
+	list-style: none;
 	margin: 0px;
 	padding-left: 0px;
 }
 
 .nav a {
-	color: black;
+    color: black;
+    display: block;
 	padding: 10px 20px 10px 20px;
 }
 
@@ -20,15 +23,13 @@
 
 /* Indicate when navigation is clickable */
 .nav a:hover{
-	border-top: 2px solid white;
+	border-bottom: 2px solid white;
 	padding-top: 10px;
 }
 
 
 /* indicate which page the user is on */
 .nav a.is-current {
-	border-top: 2px solid white;
 	padding-top: 2px;
-	background: white;
-	color:black;
+	color:rgb(253, 202, 64);
 }
