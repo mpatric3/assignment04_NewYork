@@ -29,7 +29,6 @@ h2{
 
 article, aside{
 	font-family: 'Raleway', sans-serif; /* Custom font chosen from google fonts to pair well with banner font. Simple, modern typeface communicates the technical and modern "computer science" tone of the site */
-	border-radius: 6px 6px 6px 6px;
 	padding: 5px 15px 5px 15px;
 	margin: 40px;
 	background-color: white;	/* creating clear box around the different blocks on information help differntiate content types*/ 
@@ -37,7 +36,6 @@ article, aside{
 }
 .aaarticle, .aaaside{
 	font-family: 'Raleway', sans-serif; /* Custom font chosen from google fonts to pair well with banner font. Simple, modern typeface communicates the technical and modern "computer science" tone of the site */
-	border-radius: 6px 6px 6px 6px;
 	padding: 5px 15px 5px 15px;
 	margin: 40px;
 	background-color: rgb(253, 202, 64);	/* creating clear box around the different blocks on information help differntiate content types*/ 
@@ -130,7 +128,6 @@ img.scale {
     }
 
     article, aside, .aaarticle, .aaaside{
-        display: grid;
-        grid-column:1;
+        display: block;
     }
 }
