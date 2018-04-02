@@ -12,10 +12,12 @@
 
 		<!--Meghan, add a jquery slider here--> 
 		<div class = "slider" style="z-index: -1;"> 
-        	<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
+			<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
 			<img src="images/cb.jpg" alt="Casey Brentnall Picture">
 			<img src="images/bl.jpg" alt="Bei Lu Picture">
 			<img src="images/oo.jpg" alt="Olatunde Oshunlaja Picture">
+        	
+
 		</div>
 
 		<article>
