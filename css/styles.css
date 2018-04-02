@@ -29,7 +29,6 @@ h1{
 	/* CRAP princple: alignment of headings */
 }
 
-
 h2{
 	font-size: 20pt;
 }
@@ -44,6 +43,15 @@ article, aside{
 	/* CRAP principle: repetition of background and layout */;
 }
 
+.feedback, .feedback h1{
+    font-size: 10pt;
+    padding: 0px 0px 0px 10px;
+}
+
+.footer{
+    color: white;
+}
+
 figcaption{
 	text-align: center; /*centered caption for aethetic appeal */
 }
@@ -51,15 +59,17 @@ figcaption{
 
 .readmore{
     background-color:rgb(253, 202, 64);
-	color: rgb(50, 48, 49);;
-	font-size: 20px;
+	color: rgb(50, 48, 49);
+    font-size: 20px;
+    text-align:center;
 	/*CRAP princple: Proximity of link to about block makes it obvious that the read more tag will lead to page about student */;
 }
 
 .readmorediff{
     color:rgb(253, 202, 64);
 	background-color: rgb(50, 48, 49);;
-	font-size: 20px;
+    font-size: 20px;
+    text-align:center;
 	/*CRAP princple: Proximity of link to about block makes it obvious that the read more tag will lead to page about student */;
 }
 
@@ -97,7 +107,6 @@ article h2{
 
 .article-info{
 	grid-column: 1/3;
-
 }
 
 img.scale {
@@ -107,6 +116,5 @@ img.scale {
 .slider{
     width: 100%;
     margin: 0 auto;
-    max-width: 300px;
-
+    max-width:968px;
 }
